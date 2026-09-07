@@ -28,7 +28,7 @@ The project analyzes sales, customers, products, marketing channels, campaigns, 
 
 ## 📈 Dashboard
 
-![Dot & Key Brand Launch Dashboard](dot-key-dashboard.png)
+[Dot & Key Brand Launch Dashboard]dot and key power bi screenshot.png
 
 ## 🔍 Key Analyses
 
