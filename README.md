@@ -26,10 +26,6 @@ The project analyzes sales, customers, products, marketing channels, campaigns, 
 - **Power BI** — Interactive dashboard and visualization
 - **DAX** — Marketing KPI calculations
 
-## 📈 Dashboard
-
-![Dot & Key Brand Launch Dashboard](./dot-key-dashboard.png)
-
 ## 🔍 Key Analyses
 
 ### Marketing Performance
